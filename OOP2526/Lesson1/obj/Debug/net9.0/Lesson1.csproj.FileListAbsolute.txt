@@ -1,0 +1,14 @@
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\bin\Debug\net9.0\Lesson1.exe
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\bin\Debug\net9.0\Lesson1.deps.json
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\bin\Debug\net9.0\Lesson1.runtimeconfig.json
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\bin\Debug\net9.0\Lesson1.dll
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\bin\Debug\net9.0\Lesson1.pdb
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.AssemblyInfo.cs
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.dll
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\refint\Lesson1.dll
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.pdb
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\Lesson1.genruntimeconfig.cache
+C:\Users\tasta\Desktop\FatmaHocaOdev\Odev\OOP2526\Lesson1\obj\Debug\net9.0\ref\Lesson1.dll
