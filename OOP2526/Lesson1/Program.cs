@@ -32,23 +32,24 @@ namespace Lesson1
                 return toplam;
             }
 
-            public bool kalan()
+            public string kalan()
             {
                 Console.Write("A sayısını girin: ");
                 int a = int.Parse(Console.ReadLine());
                 Console.Write("B sayısını girin: ");
                 int b = int.Parse(Console.ReadLine());
                 int kalan_ = a % b;
+
                 if (kalan_ == 0)
                 {
-                    Console.WriteLine("Bu sayılar tam bölünür");
-                    return true;
+                   // Console.WriteLine("Bu sayılar tam bölünür");
+                    return "Bu sayılar tam bölünür";
                 }
                     
                 else
                 {
-                    Console.WriteLine("Bu sayılar tam bölünmez");
-                    return false;
+                 //   Console.WriteLine("Bu sayılar tam bölünmez");
+                    return "Bu sayılar tam bölünmez";
                 }
                     
             }
