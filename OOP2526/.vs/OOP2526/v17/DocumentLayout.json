@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37079-6087-4F50-A10C-9F9BBB84E415}|Lesson2\\Lesson2.csproj|c:\\users\\tasta\\desktop\\25-26dersler\\oop\\oop2526\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37079-6087-4F50-A10C-9F9BBB84E415}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BEAB441-7ACA-4F2A-87B7-D602DFC1DFFF}|Lesson3\\Lesson3.csproj|c:\\users\\tasta\\desktop\\25-26dersler\\oop\\oop2526\\lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEAB441-7ACA-4F2A-87B7-D602DFC1DFFF}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEAB441-7ACA-4F2A-87B7-D602DFC1DFFF}|Lesson3\\Lesson3.csproj|c:\\users\\tasta\\desktop\\25-26dersler\\oop\\oop2526\\lesson3\\lesson3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BEAB441-7ACA-4F2A-87B7-D602DFC1DFFF}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\lesson3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3094132B-4D86-4E8A-B39F-D050C0ECEB25}|Lesson1\\Lesson1.csproj|c:\\users\\tasta\\desktop\\25-26dersler\\oop\\oop2526\\lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson1\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson1\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson1\\Program.cs",
-              "RelativeToolTip": "Lesson1\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAADIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:08:12.887Z",
+              "Title": "Lesson3",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson3\\Lesson3.csproj",
+              "RelativeDocumentMoniker": "Lesson3\\Lesson3.csproj",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson3\\Lesson3.csproj",
+              "RelativeToolTip": "Lesson3\\Lesson3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T06:54:13.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson2\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson2\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson2\\Program.cs",
-              "RelativeToolTip": "Lesson2\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson3\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson3\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson3\\Program.cs",
+              "RelativeToolTip": "Lesson3\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:00:44.868Z",
+              "WhenOpened": "2025-10-07T06:42:29.169Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson1\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson1\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\25-26Dersler\\OOP\\OOP2526\\Lesson1\\Program.cs",
+              "RelativeToolTip": "Lesson1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:08:12.887Z"
             }
           ]
         }
